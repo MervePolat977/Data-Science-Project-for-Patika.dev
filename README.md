@@ -35,3 +35,8 @@ Panda: Panda's source code is highly optimized and provides accurate results eve
 
 ![image](https://user-images.githubusercontent.com/75504698/197337169-0212a37f-9b7f-4c1c-8334-d5d041185760.png)
     
+    
+    
+Ayrıca Python'ın kullanıldığı alanlar ve kullandığı popüler tools'lar için Patika.dev'de yazdığım şu blog'a da göz atabilirsiniz.
+## https://app.patika.dev/blogs/areas-python-can-be-used-and-popular-tools
+
